@@ -35,18 +35,6 @@ Each day's folder contains:
 
 ---
 
-## ✅ Progress
-
-| Day   | Project     | Status |
-| ----- | ----------- | ------ |
-| Day 1 | Coming Soon | ⏳      |
-| Day 2 | Coming Soon | ⏳      |
-| Day 3 | Coming Soon | ⏳      |
-
-*(This table will be updated as I complete each project.)*
-
----
-
 ## 🛠 Technologies
 
 * Python 3
